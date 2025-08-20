@@ -26,9 +26,6 @@ schedule:
         start: 11:45 AM
         end: 1:30 PM
         location: 2115 Jordan
-      - name: Office Hours
-        start: By appointment
-        location: Jordan Lobby/Zoom
   - name: Wednesday
   - name: Thursday
     events:
@@ -36,8 +33,5 @@ schedule:
         start: 11:45 AM
         end: 1:30 PM
         location: 2115 Jordan
-      - name: Office Hours
-        start: By appointment
-        location: Jordan Lobby/Zoom
   - name: Friday
 ---
