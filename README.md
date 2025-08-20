@@ -9,6 +9,16 @@ seo:
 ---
 
 # Introduction to Python For Geosciences
+## North Carolina State University, Fall 2025
+
+Instructor: Anantha Aiyyer
+
+Time: Tues & Thu 11:45 am - 1:30 pm
+
+## Course Overview
+This course introduces geoscience students to computational problem-solving using Python. We begin with Karel the Robot to teach coding logic in a simple visual way, then transition into Python for real-world geoscience applications spanning **atmospheric science, marine science, and geology**. By the end, students will be able to process, analyze, and visualize diverse geoscience datasets using `numpy`, `pandas`, `matplotlib`, `seaborn`, and `xarray`.  
+
+---
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
