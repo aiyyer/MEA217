@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Python Intro Geosciences
 ---
 
 # Introduction to Python For Geosciences
