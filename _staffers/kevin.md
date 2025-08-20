@@ -7,5 +7,3 @@ photo: aiyyer.jpg
 meta:
   Office Hours: By appointment
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
