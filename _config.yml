@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   anantha aiyyer:
-    - 'aiyyer.github.io'
+    - 'https://aiyyer.github.io'
   Introduction to Python For Geosciences on GitHub:
     - 'https://aiyyer.github.io/intro_to_python_for_geosciences/'
 footer_content:
