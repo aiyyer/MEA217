@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
+name: Anantha Aiyyer  
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: aaiyyer@ncsu.edu
+website: aiyyer.github.io
+photo: aiyyer.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: By appointment
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
