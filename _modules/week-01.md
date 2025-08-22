@@ -1,5 +1,5 @@
 ---
-title: Playing with Karel, the robot
+title: Module 01 -- Playing with Karel, the robot
 ---
 
 Aug 21
