@@ -8,7 +8,7 @@ seo:
   name: Python Intro Geosciences
 ---
 
-# Introduction to Python For Geosciences
+# MEA 217 -- Introduction to Python For Geosciences
 Course Website: [MEA 217](https://aiyyer.github.io/intro_to_python_for_geosciences/)
 ## North Carolina State University, Fall 2025
 
