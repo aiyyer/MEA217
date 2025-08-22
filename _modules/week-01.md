@@ -3,7 +3,7 @@ title: Playing with Karel, the robot
 ---
 
 Aug 21
-: [Intro to Karel](../assets/Lectures/MEA_217-Lecture1.pdf)
+: [Lecture 1: Intro to Karel](../assets/files/MEA_217-Lecture1.pdf)
 - A quick introduction to Karel, the robot. Learning to write code to move Karel.
 - Making code efficient with Loops
 - In-class coding excercise
