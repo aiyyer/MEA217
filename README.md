@@ -9,7 +9,7 @@ seo:
 ---
 
 # Introduction to Python For Geosciences
-Course Website: [python_for_geosciences](https://aiyyer.github.io/intro_to_python_for_geosciences/)
+Course Website: [MEA 217](https://aiyyer.github.io/intro_to_python_for_geosciences/)
 ## North Carolina State University, Fall 2025
 
 Instructor: Anantha Aiyyer
