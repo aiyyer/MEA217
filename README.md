@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Introduction to Python For Geosciences
+title: MEA 217
 nav_exclude: true
 permalink: /:path/
 seo:
