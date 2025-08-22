@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Intro to Python
-tagline: For Geosciences!
+title: Introduction to Computing in the Geosciences 
+tagline: 
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin (adapted by Anantha Aiyyer, NC State University)
-baseurl: '/intro_to_python_for_geosciences' # the subpath of your site, e.g. /blog
+baseurl: '/MEA217' # the subpath of your site, e.g. /blog
 url: 'https://aiyyer.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -31,7 +31,7 @@ aux_links:
   anantha aiyyer:
     - 'https://aiyyer.github.io'
   MEA 217 on GitHub:
-    - 'https://aiyyer.github.io/intro_to_python_for_geosciences/'
+    - 'https://aiyyer.github.io/MEA217/'
 footer_content:
 
 # Collections for website data
