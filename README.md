@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Python Intro Geosciences
+  name: MEA 217
 ---
 
 # MEA 217 -- Introduction to Python For Geosciences
