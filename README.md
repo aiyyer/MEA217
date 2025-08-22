@@ -18,6 +18,8 @@ Time: Tues & Thu 11:45 am - 1:30 pm
 ## Course Overview
 This course introduces geoscience students to computational problem-solving using Python. We begin with Karel the Robot to teach coding logic in a simple visual way, then transition into Python for real-world geoscience applications spanning **atmospheric science, marine science, and geology**. By the end, students will be able to process, analyze, and visualize diverse geoscience datasets using `numpy`, `pandas`, `matplotlib`, `seaborn`, and `xarray`.  
 
+
+### Website based on https://github.com/kevinlin1/just-the-class
 ---
 ## Prerequisites
 - Math (MA 141, 241), Physics (PY 205)
