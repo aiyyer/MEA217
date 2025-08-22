@@ -9,7 +9,7 @@ seo:
 ---
 
 # MEA 217 -- Introduction to Computing in the Geosciences
-Course Website: [MEA 217](https://aiyyer.github.io/intro_to_python_for_geosciences/)
+Course Website: [MEA 217](https://aiyyer.github.io/MEA217/)
 ## North Carolina State University, Fall 2025
 
 Instructor: Anantha Aiyyer
