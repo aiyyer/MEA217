@@ -3,7 +3,7 @@ title: Playing with Karel, the robot
 ---
 
 Aug 21
-: [Intro to Karel](../assets/Lectures/MEA_217-Lecture1.pdf)
+: [Intro to Karel](#)
 
 
 Aug 26 
