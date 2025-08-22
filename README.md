@@ -2,7 +2,7 @@
 layout: home
 title: Introduction to Python For Geosciences
 nav_exclude: true
-permalink: /:path/
+permalink: https://aiyyer.github.io/intro_to_python_for_geosciences/
 seo:
   type: Course
   name: Python Intro Geosciences
