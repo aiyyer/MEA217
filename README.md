@@ -22,7 +22,6 @@ This course introduces geoscience students to computational problem-solving usin
 
 ---
 ## Prerequisites
-- Math (MA 141, 241), Physics (PY 205)
 - No prior coding experience needed
 
 ## Course Syllabus and Policies
