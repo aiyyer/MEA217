@@ -10,12 +10,12 @@ Aug 21
 - **In-class coding excercise:** [Code Page](https://compedu.stanford.edu/karel-reader/docs/python/en/ide.html), 
 
 Aug 26 
-: Karel does work! [Lecture 2:](#)
+: Karel does work! [Lecture 2: (coming soon)](#)
 -  **Agenda:** Do more interesting stuff with Karel using functions, decompositions and loops
 - **In-class coding excercise**
 
 Aug 28
-: Karel does more work! [Lecture 3:](#)
+: Karel does more work! [Lecture 3: (coming soon)](#)
 -  **Agenda:** Do advanced work with Karel
 - **In-class coding excercise**
 
