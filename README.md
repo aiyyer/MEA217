@@ -2,7 +2,7 @@
 layout: home
 title: Introduction to Python For Geosciences
 nav_exclude: true
-permalink: /intro_to_python_for_geosciences/
+permalink: /:path/
 seo:
   type: Course
   name: Python Intro Geosciences
