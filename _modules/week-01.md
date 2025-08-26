@@ -10,7 +10,7 @@ Aug 21
 - **In-class coding excercise:** See the excercise described in [Lecture 1](../assets/files/MEA_217-Lecture1.pdf) and write code to go from the initial to final state shown. Use [Code Page](https://compedu.stanford.edu/karel-reader/docs/python/en/ide.html)
 
 Aug 26 
-: Karel does work! [Lecture 2: (coming soon)](#)
+: Karel does work! [Lecture 2:](../assets/files/MEA_217-Lecture2.pdf)
 -  **Agenda:** Do more interesting stuff with Karel using functions, decompositions and loops
 - **In-class coding excercise**
 
