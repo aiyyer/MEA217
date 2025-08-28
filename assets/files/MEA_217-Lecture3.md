@@ -23,4 +23,4 @@ It’s very popular in **data science, machine learning, and scientific research
 
 ## Access JupyterLab
 
-You can either install the code on your laptop or access it using NCSU's jupyerhub
+You can either [install](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) the code on your laptop or access it using NCSU's jupyerhub (search NCSU COS jupyterhub)
