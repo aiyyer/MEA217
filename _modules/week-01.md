@@ -4,8 +4,8 @@ title: Module 01 -- Playing with Karel, the robot
 
 Aug 21
 : Intro to Karel [Lecture 1](../assets/files/MEA_217-Lecture1.pdf)
-- **Agenda:** A
--  quick introduction to Karel, the robot. Learning to write code to move Karel.
+- **Agenda:** 
+- A quick introduction to Karel, the robot. Learning to write code to move Karel.
 - Making code efficient with Loops
 - Reading: [Meet Karel](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html), [Program Karel](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter2.html)
 - **In-class coding excercise:** See the excercise described in [Lecture 1](../assets/files/MEA_217-Lecture1.pdf) and write code to go from the initial to final state shown. Use [Code Page](https://compedu.stanford.edu/karel-reader/docs/python/en/ide.html)
@@ -24,5 +24,5 @@ Aug 28
 -  First python code
 - **In-class coding excercise**
 
-Aug 31
+Sep 2
 : **HW 1 due**{: .label .label-red }
