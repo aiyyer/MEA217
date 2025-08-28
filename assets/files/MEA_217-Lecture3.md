@@ -39,5 +39,5 @@ You can either [install](https://jupyterlab.readthedocs.io/en/stable/getting_sta
 ## Class Activity
 
 Follow the link below:
-- A gentle introduction to Python using [jupyterlab](jupyter_lab_1.md)
+- A gentle introduction to Python using [jupyterlab](jupyter_lab_1)
 
