@@ -15,8 +15,10 @@ Aug 26
 - **In-class coding excercise**
 
 Aug 28
-: Karel does more work! [Lecture 3: (coming soon)](#)
--  **Agenda:** Do advanced work with Karel
+: Karel does more work! [Lecture 3](../assets/files/MEA_217-Lecture3.md)
+-  **Agenda:** Wrap up with Karel
+-  Intro to Jupyterlab
+-  First python code
 - **In-class coding excercise**
 
 Aug 31
