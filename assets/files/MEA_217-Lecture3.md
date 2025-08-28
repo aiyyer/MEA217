@@ -1,3 +1,12 @@
+# Lecture 3  Aug 28
+
+
+## Activity 1
+
+- Write an original code on the Karel code block that illustrates (a) a function; (b) conditional statememt and (c) a loop
+- save the code and upload it as part of assignment 1 (instructions will follow on how to upload)
+
+
 
 # Introduction to JupyterLab for Beginners
 
