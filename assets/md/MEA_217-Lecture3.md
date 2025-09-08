@@ -1,3 +1,12 @@
+---
+layout: default
+title: Page not found
+nav_exclude: true
+search_exclude: true
+---
+
+
+
 # Lecture 3  Aug 28
 
 
