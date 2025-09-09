@@ -1,6 +1,6 @@
 ---
 title: "hidden from nav"
-nav_exclude: true
+nav:false
 ---
 
 # Lecture 3  Aug 28
