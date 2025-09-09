@@ -1,6 +1,6 @@
 ---
-layout: default
-search_exclude: true
+title: "hidden from nav"
+nav_exclude: true
 ---
 
 # Lecture 3  Aug 28
