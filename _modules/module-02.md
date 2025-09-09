@@ -8,5 +8,5 @@ Sep 02
 **Agenda:** 
 
 - Getting to navigate within jupyerlab
-- **Assignments 1 & 2 due**{: .label .label-red }: Please upload your files on moodle
+- **In class activity assignments 1 & 2 due**{: .label .label-red }: Please upload your files on moodle
 
