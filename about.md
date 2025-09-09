@@ -27,7 +27,9 @@ Each lecture will first introduce a coding concept (first 20-30 minutes). Then, 
 
 ## Resources
 
-[Learning Python with Karel, the Robot](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html)
+- [Learning Python with Karel, the Robot](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html)
+
+- [Learn Python Wth Jupyter Notebook](https://www.learnpythonwithjupyter.com/)
 
 ## Course Grading
 
