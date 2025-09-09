@@ -3,7 +3,7 @@ title: Module 02 -- Getting to know Jupyterlab
 ---
 
 Sep 02
-: Intro to Jupyterlab [Lecture 4](../assets/files/MEA_217-Lecture4.md)
+: Intro to Jupyterlab [Lecture 4](../assets/files/MEA_217-Lecture4)
 
 **Agenda:** 
 
