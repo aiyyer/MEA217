@@ -1,6 +1,6 @@
 ---
-title: "hidden from nav"
-nav: false
+title: "Lecture 3  Aug 28"
+nav_exclude: true
 ---
 
 # Lecture 3  Aug 28
