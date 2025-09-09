@@ -1,7 +1,3 @@
----
-layout: default
-nav_exclude: true
----
 
 # Lecture 3  Aug 28
 
