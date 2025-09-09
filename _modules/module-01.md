@@ -17,7 +17,7 @@ Aug 26
 - **In-class coding excercise**
 
 Aug 28
-: Karel does more work! [Lecture 3](../assets/files/MEA_217-Lecture3.md)
+: Karel does more work! [Lecture 3](../assets/files/MEA_217-Lecture3)
 -  **Agenda:**
 -  Wrap up with Karel
 -  Intro to Jupyterlab   [Installation][https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
