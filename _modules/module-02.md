@@ -24,4 +24,4 @@ Agenda:
 Agenda:
 
 - Continue working on the sections of the [python book by Serena Bonaretti](https://www.learnpythonwithjupyter.com/assets/book/learn_python_with_jupyter.pdf)
-- **In class activity assignments 3 due**{: .label .label-red }: Please upload your file on moodle
+- **In class activity assignment 3 due**{: .label .label-red }: Please upload your file on moodle
