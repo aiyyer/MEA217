@@ -19,9 +19,11 @@ At the end of the class you will work on a coding assignment to bring all these 
 
 # Activities
 
-- Download the file and run through each cell
-- 
+- Download the file [basic_python.ipynb]() and run through each cell. Complete the excercise at the end
+- Download the file [basic_python.ipynb]() and run through each cell. Complete the excercise at the end
+- Download the file [basic_python.ipynb]() and run through each cell. Complete the excercise at the end
 
+- Upload your ipynb files on moodle. But first make sure that I have examined your code in class.
 
 ## Resources
 
