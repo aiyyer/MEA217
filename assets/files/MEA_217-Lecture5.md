@@ -21,7 +21,7 @@ At the end of the class you will work on a coding assignment to bring all these 
 
 - Download the file [basic_python.ipynb](basic_python.ipynb) and run through each cell. Complete the excercise at the end
 - Download the file [python_variables_intro_with_exercises_and_solutions.ipynb](python_variables_intro_with_exercises_and_solutions.ipynb) and run through each cell. Complete the excercise at the end
-- 
+- Navigate to [https://cs231n.github.io/python-numpy-tutorial/#numpy](https://cs231n.github.io/python-numpy-tutorial/#numpy) and read through the sections on numpy. Copy the code elements and run them as you read the sections. Questions? Ask me.
 
 - Upload your ipynb files on moodle. But first make sure that I have examined your code in class.
 
