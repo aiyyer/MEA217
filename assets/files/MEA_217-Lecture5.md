@@ -19,7 +19,7 @@ At the end of the class you will work on a coding assignment to bring all these 
 
 # Activities
 
-- Download the file [basic_python.ipynb]() and run through each cell. Complete the excercise at the end
+- Download the file [basic_python.ipynb](basic_opython.ipynb) and run through each cell. Complete the excercise at the end
 - Download the file [basic_python.ipynb]() and run through each cell. Complete the excercise at the end
 - Download the file [basic_python.ipynb]() and run through each cell. Complete the excercise at the end
 
