@@ -119,8 +119,7 @@ print("tan:", np.tan(angles))
 
 The Taylor series expansion for sin(x) is:
 
-
-$$sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots$$
+sin(x) = x - x^3/3! + x^5/{5! - x^7/7! + ...
 
 
 - Write code to first directly output  $\sin(30^\circ)$. (Remember to convert 30° to radians)
