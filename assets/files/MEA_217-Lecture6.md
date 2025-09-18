@@ -115,13 +115,13 @@ print("tan:", np.tan(angles))
 
 
 
-## Example: Estimate sin of an angle via series Expansion of $\sin(x)$. 
+## Example: Estimate sin of an angle via series Expansion of sin(x). 
 
-The Taylor series expansion for $\sin(x)$ is:
+The Taylor series expansion for sin(x) is:
 
-$$
-\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots
-$$
+
+$$sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots$$
+
 
 - Write code to first directly output  $\sin(30^\circ)$. (Remember to convert 30° to radians)
 - Then write code to approximate  $\sin(30^\circ)$ using the Taylor expansion as shown above. Your code should output the estimate as you progressively increase the number of terms in the formula (start with just 1 term and then add other terms). Try using loops or recursions.
@@ -140,3 +140,4 @@ $$
 - [https://www.learnpythonwithjupyter.com/](https://www.learnpythonwithjupyter.com/)
 
 - [https://nustat.github.io/DataScience_Intro_python/](https://nustat.github.io/DataScience_Intro_python/)
+
