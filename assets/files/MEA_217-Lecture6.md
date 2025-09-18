@@ -130,8 +130,12 @@ $$
 
 
 
+## Solutions
 
-## Resources
+- Will be added here shortly.
+
+
+# Resources
 
 - [https://www.learnpythonwithjupyter.com/](https://www.learnpythonwithjupyter.com/)
 
