@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page not found
+title: Lecture 4
 nav_exclude: true
 search_exclude: true
 ---
