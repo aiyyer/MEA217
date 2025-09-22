@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Lecture 3  Aug 28"
 nav_exclude: true
 ---
