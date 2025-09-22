@@ -26,3 +26,5 @@ Sep 11
 Sep 18
 : [Playing with numpy](../assets/files/MEA_217-Lecture6)
 - **In class activity assignment 5 due**{: .label .label-red }: Please upload your file on moodle
+
+  $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
