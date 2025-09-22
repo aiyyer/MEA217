@@ -1,9 +1,11 @@
 ---
+layout: Default
 title: Lecture 6
 nav_exclude: true
 search_exclude: true
 ---
 
+   
 # Lecture 6: Sep 18
 
 # Playing with numpy
