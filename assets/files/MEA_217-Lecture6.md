@@ -44,7 +44,7 @@ First, import NumPy:
 
 ```
 import numpy as np
-
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 # Creating a 1D NumPy array
 arr1 = np.array([1, 2, 3, 4, 5])
 print(arr1)
@@ -65,7 +65,7 @@ print("Array squared:", arr1 ** 2)
 arr2 = np.array([[1, 2, 3],
                  [4, 5, 6]])
 print(arr2)
-```
+```$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 # Access elements
 ```
@@ -134,7 +134,7 @@ sin(x) = x - x^3/3! + x^5/5! - x^7/7! + ...
 - Will be added here shortly.
 
 
-# Resources$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+# Resources
 
 - [https://www.learnpythonwithjupyter.com/](https://www.learnpythonwithjupyter.com/)
 
