@@ -9,6 +9,7 @@ search_exclude: true
 
 # Lecture 6: Sep 18
 
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 
 # Playing with numpy
@@ -44,7 +45,11 @@ First, import NumPy:
 
 ```
 import numpy as np
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}</h2>
+<div class="module">
+  {{ content }}
+</div>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 # Creating a 1D NumPy array
 arr1 = np.array([1, 2, 3, 4, 5])
 print(arr1)
@@ -141,4 +146,3 @@ sin(x) = x - x^3/3! + x^5/5! - x^7/7! + ...
 - [https://nustat.github.io/DataScience_Intro_python/](https://nustat.github.io/DataScience_Intro_python/)
 
 
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
