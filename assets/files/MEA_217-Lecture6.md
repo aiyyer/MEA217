@@ -40,11 +40,8 @@ First, import NumPy:
 
 ```
 import numpy as np
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}</h2>
-<div class="module">
-  {{ content }}
-</div>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
 # Creating a 1D NumPy array
 arr1 = np.array([1, 2, 3, 4, 5])
 print(arr1)
@@ -65,11 +62,11 @@ print("Array squared:", arr1 ** 2)
 arr2 = np.array([[1, 2, 3],
                  [4, 5, 6]])
 print(arr2)
-```$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
-
-# Access elements
 ```
 
+# Access elements
+
+```
 print("Element at row 0, col 1:", arr2[0, 1])   # row 0, column 1
 print("First row:", arr2[0])
 print("First column:", arr2[:, 0])
