@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Lecture 4
 nav_exclude: true
 search_exclude: true
