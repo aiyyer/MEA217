@@ -1,5 +1,5 @@
 ---
-layout: module
+layout: markdown_lecs
 title: Lecture 6
 nav_exclude: true
 search_exclude: true
