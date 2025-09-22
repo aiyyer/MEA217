@@ -134,13 +134,11 @@ sin(x) = x - x^3/3! + x^5/5! - x^7/7! + ...
 - Will be added here shortly.
 
 
-# Resources
+# Resources$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 - [https://www.learnpythonwithjupyter.com/](https://www.learnpythonwithjupyter.com/)
 
 - [https://nustat.github.io/DataScience_Intro_python/](https://nustat.github.io/DataScience_Intro_python/)
-- 
 
-#
-        <span markdown="0"> $E=mc^2$ </span>
 
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
