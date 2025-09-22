@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module
 title: Lecture 6
 nav_exclude: true
 search_exclude: true
