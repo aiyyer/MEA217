@@ -5,8 +5,6 @@ nav_exclude: true
 search_exclude: true
 ---
 
-
-
 # Lecture 6: Sep 18
 
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
