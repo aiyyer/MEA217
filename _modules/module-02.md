@@ -24,3 +24,9 @@ Sep 11
 Sep 18
 : [Playing with numpy](../assets/files/MEA_217-Lecture6)
 - **In class activity assignment 5 due**{: .label .label-red }: Please upload your file on moodle
+
+
+Sep 23
+: [Practicing with numpy and Intro to Pandas](../assets/files/MEA_217-Lecture7)
+- **In class activity assignment 5 due**{: .label .label-red }: Please upload your file on moodle
+
