@@ -9,7 +9,7 @@ search_exclude: true
 
 ## Activity 1: Practicing with numpy and Intro to Pandas
 
-- Download the file [basic_python.ipynb](basic_python.ipynb) and work through the examples and exercises based on numpy arrays
+- Download the file [numpy_practice.ipynb](numpy_practice.ipynb) and work through the examples and exercises based on numpy arrays
 - upload the file on moodle (see assignment link for today on moodle)
 
 
