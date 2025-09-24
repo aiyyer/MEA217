@@ -33,6 +33,6 @@ Sep 23
 
 
 Sep 25
-: [Working with Pandas](../assets/files/MEA_217-Lecture8)
+: [Working with Pandas](../assets/files/MEA_217-Lecture8.md)
 - **In class activity assignment 6 due**{: .label .label-red }: Please upload your file on moodle
 
