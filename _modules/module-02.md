@@ -27,6 +27,6 @@ Sep 18
 
 
 Sep 23
-: [Practicing with numpy and Intro to Pandas](../assets/files/MEA_217-Lecture1.pdf)
+: [Practicing with numpy and Intro to Pandas](../assets/files/MEA_217-Lecture7)
 - **In class activity assignment 6 due**{: .label .label-red }: Please upload your file on moodle
 
