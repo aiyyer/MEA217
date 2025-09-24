@@ -5,7 +5,8 @@ nav_exclude: true
 ---
 
 
-**September 25
+September 25
+---
 
 - Quiz
 - Class material Coming soon
