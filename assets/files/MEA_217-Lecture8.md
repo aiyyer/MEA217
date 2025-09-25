@@ -27,6 +27,6 @@ September 25
 - upload the file with your solution on moodle
 
 ## Activity 4
-- Download [pandas example](../assets/files/pandas_example.ipynb) and [sameple data](../assets/files/sample_data.csv)
+- Download [pandas example](pandas_example.ipynb) and [sample data](sample_data.csv)
 - Run through the code and observe what each code block does
 - Questions? Ask me!
