@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture 7
+title: Lecture 8
 nav_exclude: true
 ---
 
@@ -25,7 +25,3 @@ September 25
 - Try out code snippets to get familiar with Pandas. This will take time to get familiar. So, patience is key
 - Download the file [pandas_introduction.ipynb](pandas_introduction.ipynb) and work through the sections. Finally, attempt the exercise in this file. Questions? Ask me
 - upload the file with your solution on moodle
-
-## Activity 4 (In class or at home)
-- You may complete this anytime by end of the weekend
-- Download the code []() and data []() and work through the code celss to get familiar with reading data and working with Pandas
