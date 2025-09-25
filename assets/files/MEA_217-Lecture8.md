@@ -25,3 +25,8 @@ September 25
 - Try out code snippets to get familiar with Pandas. This will take time to get familiar. So, patience is key
 - Download the file [pandas_introduction.ipynb](pandas_introduction.ipynb) and work through the sections. Finally, attempt the exercise in this file. Questions? Ask me
 - upload the file with your solution on moodle
+
+## Activity 4
+- Download [pandas example](../assets/files/pandas_example.ipynb) and [sameple data](../assets/files/sample_data.csv)
+- Run through the code and observe what each code block does
+- Questions? Ask me!
