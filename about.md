@@ -36,7 +36,7 @@ Each lecture will first introduce a coding concept (first 20-30 minutes). Then, 
 The overall course grade will be based on the following assessment items:
 
 - In class activities/assignments (typically you will get full credit for completing each activity): 25%
-- Home work assignments: 25%
+- Quizzes: 25%
 - Mid-term Exam: 25%
 - Coding Project: 25%
 
