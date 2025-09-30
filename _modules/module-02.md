@@ -19,20 +19,3 @@ Sep 09
 Sep 11
 : [Synthesis of basic python commands and intro to numpy](../assets/files/MEA_217-Lecture5)
 - **In class activity assignment 4 due**{: .label .label-red }: Please upload your file on moodle
-
-
-Sep 18
-: [Playing with numpy](../assets/files/MEA_217-Lecture6)
-- **In class activity assignment 5 due**{: .label .label-red }: Please upload your file on moodle
-
-
-Sep 23
-: [Practicing with numpy and Intro to Pandas](../assets/files/MEA_217-Lecture7)
-- **In class activity assignment 6 due**{: .label .label-red }: Please upload your file on moodle
-
-
-
-Sep 25
-: [Working with Pandas](../assets/files/MEA_217-Lecture8)
-- **In class activity assignment 6 due**{: .label .label-red }: Please upload your file on moodle
-
