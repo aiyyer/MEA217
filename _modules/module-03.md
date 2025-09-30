@@ -25,6 +25,6 @@ Sep 25
 
 
 Sep 25
-: Review
+: [Review and playing with Pandas](../assets/files/MEA_217-Lecture9)
 - We will conduct a review of material learned so far
 : Continue with Pandas
