@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture 8
+title: Lecture 9
 nav_exclude: true
 ---
 
