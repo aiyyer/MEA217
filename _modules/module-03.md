@@ -32,5 +32,11 @@ Sep 30
 
 
 
-Sep 30
+Oct 2
 : Pandas - We will work though some examples in class
+
+
+
+
+Oct 7
+: Pandas - We will work though some more examples in class
