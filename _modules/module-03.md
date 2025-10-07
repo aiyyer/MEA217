@@ -27,10 +27,8 @@ Sep 25
 Sep 30
 : [Review and playing with Pandas](../assets/files/MEA_217-Lecture9)
 - We will conduct a review of material learned so far
-: Continue with Pandas
 
-- navigate tp the [NOAA site for Co2 data](https://gml.noaa.gov/ccgg/trends/data.html) and download the daily data (text file)
-- 
+
 
 
 
@@ -43,3 +41,5 @@ Oct 2
 
 Oct 7
 : Pandas - We will work though some more examples in class
+- navigate to the [NOAA site for Co2 data](https://gml.noaa.gov/ccgg/trends/data.html) and download the daily data (text file)
+
