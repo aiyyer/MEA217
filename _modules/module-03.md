@@ -29,6 +29,9 @@ Sep 30
 - We will conduct a review of material learned so far
 : Continue with Pandas
 
+- navigate tp the [NOAA site for Co2 data](https://gml.noaa.gov/ccgg/trends/data.html) and download the daily data (text file)
+- 
+
 
 
 
