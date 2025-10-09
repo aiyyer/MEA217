@@ -51,5 +51,5 @@ Oct 7
 
 Oct 9
 : Pandas - We will work though some more examples in clas
-- **In class activity assignment Quiz 2 due**{: .label .label-red }: See moodle for quiz and upload
+- **In class activity Quiz 2**{: .label .label-red }: See moodle for quiz and upload
 
