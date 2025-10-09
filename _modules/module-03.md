@@ -44,3 +44,11 @@ Oct 7
 - navigate to the [NOAA site for Co2 data](https://gml.noaa.gov/ccgg/trends/data.html) and download the daily data (text file)
 - **In class activity assignment 7 due**{: .label .label-red }: Please upload your file on moodle
 
+
+
+
+
+Oct 9
+: Pandas - We will work though some more examples in clas
+- **In class activity assignment Quiz 2 due**{: .label .label-red }: See moodle for quiz and upload
+
