@@ -14,6 +14,7 @@ At this point we have been introduced Pandas and basic operations with it.
 To motivate further dicsussion, I would like you to first:
 
 - Review the code from last class and run all the cells
+  
 - Ask any questions that may arise
 
 
@@ -21,7 +22,7 @@ To motivate further dicsussion, I would like you to first:
 
 ### Step 1: Data
 
-- Navigate to [https://www.ndbc.noaa.gov/][https://www.ndbc.noaa.gov/] 
+- Navigate to [https://www.ndbc.noaa.gov/](https://www.ndbc.noaa.gov/)
 - Familiarize yourself with the site and the data it provides
 - Zoom to the North Carolina Coast
 - Locate station: Station 41037 - Wrightsville Beach Offshore, NC (ILM3)
@@ -29,7 +30,7 @@ To motivate further dicsussion, I would like you to first:
 - Get data from the year 2023 (use method 2 to view and download the text file 41037o2023.txt)
 - Examine the data - what are the columns? What are the units? Are there missing data? If so, what is the
   indicator (or data value for missing data)?
-- 
+  
 ### Step 2: Code
 - Write code to read the data as a Pandas data frame for the year 2023
 - Then do the following
