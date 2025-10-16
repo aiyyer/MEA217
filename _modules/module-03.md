@@ -50,6 +50,12 @@ Oct 7
 
 
 Oct 9
-: Pandas - We will work though some more examples in clas
+: Pandas - We will work though some more examples in class
 - **In class activity Quiz 2**{: .label .label-red }: See moodle for quiz and upload
 
+
+
+Oct 9
+: [Pandas - More operations with data](../assets/files/MEA_217-Lecture_oct9)
+- **In class activity assignment 8 due**{: .label .label-red }: Please upload your file on moodle
+  
