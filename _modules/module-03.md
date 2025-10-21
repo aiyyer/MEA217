@@ -61,7 +61,8 @@ Oct 13
   
 
 Oct 16
-: [Pandas - More operations with data](../assets/files/MEA_217-Lecture_oct16)
+: **Pandas - More operations with data** We will review code from last week and then follow along
+as we code together in class. 
 - **In class activity assignment 8 due**{: .label .label-red }: Please upload your file on moodle
   
 
