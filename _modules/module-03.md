@@ -55,7 +55,17 @@ Oct 9
 
 
 
-Oct 9
-: [Pandas - More operations with data](../assets/files/MEA_217-Lecture_oct9)
+
+Oct 13
+- **Fall Break**
+  
+
+Oct 16
+: [Pandas - More operations with data](../assets/files/MEA_217-Lecture_oct16)
 - **In class activity assignment 8 due**{: .label .label-red }: Please upload your file on moodle
+  
+
+Oct 20
+: [Pandas - More operations with data](../assets/files/MEA_217-Lecture_oct20)
+- **In class activity assignment 9 due**{: .label .label-red }: Please upload your file on moodle
   
