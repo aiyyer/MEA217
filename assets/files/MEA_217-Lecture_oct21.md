@@ -37,12 +37,15 @@ learning and collaboration."
 
 - Familiarize with working in kaggle and reading a sample data file by viewing and following along with this presentation
   [Getting Started on Kaggle: Writing code to analyze a dataset | Kaggle ](https://www.youtube.com/watch?v=fvF2H85ko9c&list=PLqFaTIg4myu8gbDh6oBl7XRYNBlthpDEW&index=10)
-  
+
+** Take notes to upload on moodle **
 
 ## Activity 3: Pandas for data analysis
 - Follow along the presentation [Learning Pandas for Data Analysis? Start Here](https://youtu.be/DkjCaAMBGWM?si=3tVnODD9V28CyuBV)
   **Note** You may have trouble locating the data file used in the presentation. For now, just view
   the presentation and take notes on pandas capabilities. We will review this next class.
+
+** Take notes to upload on moodle **
 
 
 ## Activity 4: Quick intro to correlation and regressions
@@ -50,4 +53,8 @@ In preperation for a deeper dive into data analysis, please familiarize yourself
 
 - [ Linear Regression in 2 minutes ](https://youtu.be/CtsRRUddV2s?si=FCkapw9wL_9p0xTy)
 - [Correlation and Coefficient of Determination in 3 Minutes](https://youtu.be/rijqfllOq6g?si=XSMagqCl3jDIY3Sj)
-  
+
+** Take notes to upload on moodle **
+
+## Activity 5: 
+- Upload your notes on moodle under the class activity assignment for oct 21 for getting credit for today's work
