@@ -66,7 +66,7 @@ as we code together in class.
 - **In class activity assignment 8 due**{: .label .label-red }: Please upload your file on moodle
   
 
-Oct 20
+Oct 21
 : [Pandas - More operations with data](../assets/files/MEA_217-Lecture_oct21)
 - **In class activity assignment 9 due**{: .label .label-red }: Please upload your file on moodle
   
