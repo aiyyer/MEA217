@@ -74,4 +74,4 @@ Oct 21
 Oct 23
 : [More on Pandas and Exploratory Data Analysis](../assets/files/MEA_217-Lecture_oct23)
 - **In class activity assignment 10 due**{: .label .label-red }: Please upload your file on moodle
-  
+  **Quiz 3 on Tuesday Email to follow with study guide**
