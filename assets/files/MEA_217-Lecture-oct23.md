@@ -16,7 +16,7 @@ some new datasets
 ## Activity 1
 - Download the data file: "Earthquakes-1990-2023.csv" from moodle (look under data and code section).
 - Write code to use pandas to read the dataset into a data frame
-- Examine the conmtentof the dataframe and answer the questions
+- Examine the contents of the dataframe and answer the questions
     - How many columns are there?
     - How many rows are there?
     - How often was an earthquake recorded at each state (or country)?
