@@ -13,6 +13,8 @@ October 28
   
 - Ask any questions that may arise
 
+## Activity 2 -Pandas date time
+- Navigate to the class moodle page and download the 2 code files under oct 28 (pandas date time)
 
-## Activity 2 - Obtaining and Visualizing hurricane data
+## Activity 3 - Obtaining and Visualizing hurricane data
 
