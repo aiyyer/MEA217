@@ -82,3 +82,11 @@ Oct 28
 : [More on Pandas and Exploratory Data Analysis](../assets/files/MEA_217-Lecture_oct28)
 - **In class activity assignment 11 due**{: .label .label-red }: Please upload your file on moodle
 
+
+
+
+
+Oct 28
+: [More on Exploratory Data Analysis](../assets/files/MEA_217-Lecture_oct30)
+- **In class activity assignment 11 due**{: .label .label-red }: Please upload your file on moodle
+
