@@ -86,7 +86,7 @@ Oct 28
 
 
 
-Oct 28
+Oct 30
 : [More on Exploratory Data Analysis](../assets/files/MEA_217-Lecture_oct30)
-- **In class activity assignment 11 due**{: .label .label-red }: Please upload your file on moodle
+- **In class activity assignment 12 due**{: .label .label-red }: Please upload your file on moodle
 
