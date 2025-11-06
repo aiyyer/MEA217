@@ -32,7 +32,7 @@ November 6
 ## Activity 2
 
 - Quick coding practice with a new data
-- Download the file [tc_damages.csv](../assets/files/[tc_damages.csv). This file reports the estimated damages (in from each Atlantic hurricane from 2003-2022.
+- Download the file tc_damages.csv from moodle (look under code and data section). This file reports the estimated damages (in from each Atlantic hurricane from 2003-2022.
 - Write code that will (a) report the costliest and the least costliest tropical storm; (b) report the top 5 most costly storms; (c) draw a bar chart showing the total losses (annual total) per year.
 
 ## Activity 3
