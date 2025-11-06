@@ -5,6 +5,7 @@ nav_exclude: true
 ---
 
 
+
 November 6
 ---
 ## Activity 1
