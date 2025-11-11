@@ -12,5 +12,8 @@ November 11
 :[Maps in Scientific Python (continued)](../assets/files/MEA_217-Lecture_nov11)
 - **In class activity assignment 15 due**{: .label .label-red }: Please upload your file on moodle
 
+November 13
+:[Scientific Python (continued)](../assets/files/MEA_217-Lecture_nov13)
+- **In class activity assignment 16 due**{: .label .label-red }: Please upload your file on moodle
 
 
