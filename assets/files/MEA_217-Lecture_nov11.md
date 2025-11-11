@@ -21,7 +21,10 @@ November 11
 
 
 ## Activity 3: Coding practice with maps
-- 
+- Write code to draw a map of the world and mark (with filled circles), the top 10 biggest (by population)
+  cities
+- You may search for the population information online
+- Show me your code before uploading it to moodle
 
 ## Activity 4
 
