@@ -4,8 +4,6 @@ title: Lecture Nov 6
 nav_exclude: true
 ---
 
-
-
 November 6
 ---
 ## Activity 1
