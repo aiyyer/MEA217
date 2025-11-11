@@ -5,7 +5,18 @@ title: Module 04 -- Maps and xarray
 
 
 
+
+
+November 11
+
+
+
 November 6
+
+
+: Maps in Scientific Python (continued)
+- **In class activity assignment 15 due**{: .label .label-red }: Please upload your file on moodle
+
 
 
 
