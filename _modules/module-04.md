@@ -15,7 +15,7 @@ November 11
 
 
 November 13
-:[Review of Matplotlib and Intro to xarray)](../assets/files/MEA_217-Lecture_nov13)
+:[Review of Matplotlib and Intro to xarray](../assets/files/MEA_217-Lecture_nov13)
 - **Quiz 3**{: .label .label-red }: Please take quiz on moodle
 - **In class activity assignment 16 due**{: .label .label-red }: Please upload your file on moodle
 
