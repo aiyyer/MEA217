@@ -12,7 +12,7 @@ search_exclude: true
 # Activity 1: Quiz
 - Please navigate to moodle and take **Quiz 3**
 
-# Activity 2: Synthesis of basic matplotlib functuions
+# Activity 2: Synthesis of basic matplotlib functions
 
 - At this point, you have been introduced to matplotlib and seaborn. Lets do a quick review by following along an example code
 - Download the file **seaborn_matplotlib_demo.ipynb** from moodle. Look under code and data section and today's date (Nov 13),
