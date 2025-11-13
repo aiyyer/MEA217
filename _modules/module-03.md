@@ -96,6 +96,5 @@ Oct 30
 
 
 Nov 4
-- Review code fron last week
-- Work on data for project and initial plan and code development. Upload your plan to moodle. In yor plan, describe the data you will use and the initial analysis you will perform. I will assign additional analysis after that. 
+: [More on Exploratory Data Analysis](../assets/files/MEA_217-Lecture_nov4)
 - **In class activity assignment 13 (project data and analysis info) due**{: .label .label-red }: Please upload your file on moodle
